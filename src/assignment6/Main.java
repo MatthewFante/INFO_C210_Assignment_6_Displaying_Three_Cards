@@ -1,3 +1,19 @@
+/** 
+
+Problem Description:
+	Display a frame that contains three labels. Each label displays a card, as shown in 
+	the figure below. The card image files are named 1.png, 2.png, ..., 54.png and 
+	stored in the image/card directory. All three cards are distinct and selected 
+	randomly. 
+	The image icons used in the exercises can be obtained from the book source code 
+	file under the image folder (i.e., image/card/1.png)
+
+Your Task:
+	1. Create three ImageView and set their icons using the images.
+	2. Display three images from 54 image cards randomly. 
+
+**/
+
 package assignment6;
 
 import java.util.ArrayList;
